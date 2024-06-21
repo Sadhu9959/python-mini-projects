@@ -1,6 +1,6 @@
 import qrcode
 
-input_URL = "https://www.google.com/"
+input_URL = "https://www.anilkotapuri.online/"
 
 qr = qrcode.QRCode(
     version=1,
